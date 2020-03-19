@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf901ad4-e825-49cf-84f1-d8aba7c67917" name="Default Changelist" comment="" />
+    <list default="true" id="bf901ad4-e825-49cf-84f1-d8aba7c67917" name="Default Changelist" comment="idea整合GitHub测试">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +19,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -210,12 +213,16 @@
       <workItem from="1584180242613" duration="1999000" />
       <workItem from="1584262762584" duration="1396000" />
       <workItem from="1584334039046" duration="11224000" />
-      <workItem from="1584599836399" duration="537000" />
+      <workItem from="1584599836399" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea整合GitHub测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea整合GitHub测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Project_Structure" timestamp="1584159237743">
@@ -238,10 +245,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584176251364" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1584600695290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584600695290" />
     <state x="346" y="105" key="FileChooserDialogImpl" timestamp="1584600322053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584600322053" />
+    <state x="269" y="264" width="273" height="212" key="Github.ShareDialog" timestamp="1584600785223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="269" y="264" width="273" height="212" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1584600785223" />
+    <state x="200" y="76" key="Github.UntrackedFilesDialog" timestamp="1584600799779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="76" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584600799779" />
     <state width="925" height="383" key="GridCell.Tab.-1.bottom" timestamp="1584157457149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
