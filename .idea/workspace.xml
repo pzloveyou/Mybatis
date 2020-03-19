@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf901ad4-e825-49cf-84f1-d8aba7c67917" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test1.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf901ad4-e825-49cf-84f1-d8aba7c67917" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -389,21 +386,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="905" height="383" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1584157252769" />
-    <state x="1" y="13" key="SettingsEditor" timestamp="1584600393137">
+    <state x="1" y="13" key="SettingsEditor" timestamp="1584606049837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584600393137" />
+    <state x="1" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584606049837" />
     <state x="0" y="103" key="Vcs.Push.Dialog.v2" timestamp="1584602095595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584602095595" />
-    <state x="187" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584602393973">
+    <state x="187" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584605762268">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="187" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584602393973" />
+    <state x="187" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584605762268" />
     <state x="57" y="59" key="new project wizard" timestamp="1584177148566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="57" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584177148566" />
+    <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1584606021172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1584606021172" />
   </component>
 </project>
